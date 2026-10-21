@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
 )
 
-API_URL = "https://leaders-titanium-duration-john.trycloudflare.com/"
+API_URL = "https://productive-material-provisions-scanning.trycloudflare.com"
 DATABASE_PATH = (
     Path(__file__).resolve().parent
     / "riwayat_roaddamageai.db"
