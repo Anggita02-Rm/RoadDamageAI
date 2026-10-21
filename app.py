@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
 )
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://hospitality-vitamins-peterson-wallpapers.trycloudflare.com/"
 DATABASE_PATH = (
     Path(__file__).resolve().parent
     / "riwayat_roaddamageai.db"
