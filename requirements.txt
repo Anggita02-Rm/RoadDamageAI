@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn[standard]
+ultralytics
+pillow
+requests
+numpy
+streamlit-webrtc
+av
+python-multipart
