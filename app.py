@@ -242,7 +242,7 @@ with st.sidebar:
     try:
         status = requests.get(
             f"{API_URL}/health",
-            timeout=3,
+            timeout=15,
         )
 
         if status.ok:
